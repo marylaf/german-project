@@ -1,0 +1,5 @@
+.header__buttons-info {
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
+}

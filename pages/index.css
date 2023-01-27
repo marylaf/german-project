@@ -4,9 +4,15 @@
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
-@import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__info-link/header__info-link.css);
 @import url(../blocks/header/__icon/header__icon.css);
 @import url(../blocks/header/__number/header__number.css);
 @import url(../blocks/header/__main/header__main.css);
 @import url(../blocks/header/__main-lang/header__main-lang.css);
 @import url(../blocks/header/__phone/header__phone.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__button/header__button.css);
+@import url(../blocks/header/__buttons-info/header__buttons-info.css);
+@import url(../blocks/header/__social-link/header__social-link.css);
+@import url(../blocks/header/__links/header__links.css);

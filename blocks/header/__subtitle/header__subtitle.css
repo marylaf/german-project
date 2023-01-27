@@ -1,0 +1,9 @@
+.header__subtitle {
+  font-family: "Inter", "Arial", sans-serif;
+  width: 1168px;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 88px;
+  color: #ffffff;
+  margin: 0 auto;
+}

@@ -1,0 +1,20 @@
+.header__social-link {
+  font-family: "Inter", "Arial", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+  box-sizing: border-box;
+  border: 1px solid #ffffff;
+  padding: 11px;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  margin-right: 25px;
+}
+
+.header__social-link:nth-last-child(1) {
+  margin-right: 0;
+}
