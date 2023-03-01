@@ -7,7 +7,9 @@
 
 **Описание**
 
-Не закончен.
+- Не закончен.
+- Стек: HTML, CSS.
+
 **GitHub**
 
 - [Ссылка на макет в GitHub](https://marylaf.github.io/german-project/index.html)
